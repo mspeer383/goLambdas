@@ -1,6 +1,6 @@
-# Project Title
+# Go Lambdas
 
-One Paragraph of project description goes here
+Examples of every type of Lambdas I might use in AWS. API, SNS, SQS, DynamoDB, Kinesis, Sheduled, Synchronous, Custom Event
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Only Tested with go 1.12 or higher
 
 ```
 Give examples
